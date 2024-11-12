@@ -3,7 +3,7 @@
   <head>
     <meta http-equiv="content-type" content="text/html;charset=UTF-8" />
     <meta charset="utf-8" />
-    <title>Webarch - Responsive Admin Dashboard</title>
+    <title>Current Tech | Admin Templete</title>
     <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
     <meta content="" name="description" />
     <meta content="" name="author" />
@@ -36,7 +36,7 @@
           </ul>
           <!-- BEGIN LOGO -->
           <a href="/">
-            <img src="assets/img/logo-b.png" class="logo" alt="" data-src="assets/img/logo-b.png" data-src-retina="assets/img/logo-b2x.png" width="106" height="21" />
+            <img src="assets/img/logo/currenttech_logo.svg" class="logo" alt="" data-src="assets/img/logo/currenttech_logo.svg" data-src-retina="assets/img/logo2x.png" width="106" height="21" />
           </a>
           <!-- END LOGO -->
           <ul class="nav pull-right notifcation-center">
